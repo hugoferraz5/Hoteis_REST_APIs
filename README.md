@@ -8,6 +8,17 @@ Essa abordagem assegura a robustez e segurança do sistema, uma vez que cada eta
 
 O sucesso no teste conduzido pelo Postman valida a eficácia do projeto, garantindo que todas as operações CRUD possam ser realizadas de maneira segura e eficiente. Este projeto não apenas destaca a implementação prática de recursos do REST API, mas também reflete as melhores práticas em termos de segurança, desempenho e escalabilidade.
 
+- Parâmetros para consulta
+  - cidade ⇒ Filtrar hotéis pela cidade escolhida. Padrão: Nulo
+  - estrelas_min ⇒ Avaliações mínimas de hotéis de 0 a 5. Padrão: 0
+  - estrelas_max ⇒ Avaliações máximas de hotéis de 0 a 5. Padrão: 5
+  - diaria_min ⇒ Valor mínimo da diária do hotel de R$ 0 a R$ 10.000,00. Padrão: 0
+  - diaria_max ⇒ Valor máximo da diária do hotel de R$ 0 a R$ 10.000,00. Padrão: 10000
+  - limit ⇒ Quantidade máxima de elementos exibidos por página. Padrão: 50
+  - offset ⇒ Quantidade de elementos pular (geralmente múltiplo de limit). Padrão: 0
+
+A API pode ser acessada por esse link:  <a href="ec2-204-236-199-247.compute-1.amazonaws.com">RedeHoteis</a>
+
 Podemos observar abaixo as requisições:
 
 # 1. Cadastro de Usuário
