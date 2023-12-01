@@ -17,7 +17,7 @@ O sucesso no teste conduzido pelo Postman valida a eficácia do projeto, garanti
   - limit ⇒ Quantidade máxima de elementos exibidos por página. Padrão: 50
   - offset ⇒ Quantidade de elementos pular (geralmente múltiplo de limit). Padrão: 0
 
-A API pode ser acessada por esse link:  <a href="ec2-204-236-199-247.compute-1.amazonaws.com">RedeHoteis</a>
+A API pode ser acessada por esse link:  <a href="http://ec2-204-236-199-247.compute-1.amazonaws.com/">RedeHoteis</a>
 
 Podemos observar abaixo as requisições:
 
