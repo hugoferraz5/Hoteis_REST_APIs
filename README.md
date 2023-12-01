@@ -51,7 +51,7 @@ Exemplo de Requisição para logar o usuário e status code 200 como sucesso, ap
 ### Requisição e Resposta
 Exemplo de Requisição para logar um novo usuário que não foi cadastrado ainda e status code 401 como insucesso.
 
-<img src="https://github.com/hugoferraz5/Hoteis_REST_APIs/assets/91911052/3fe28184-28b4-4abc-9af4-78960cc1ace6" alt="pic1" style="zoom:60% ;" />
+<img src="https://github.com/hugoferraz5/Hoteis_REST_APIs/assets/91911052/001b0014-220f-46cd-ac5e-2f36b6ad5776" alt="pic1" style="zoom:60% ;" />
 <spacer type="horizontal" width="10" height="10">  </spacer>
 
 # 3. Loggout de Usuário
